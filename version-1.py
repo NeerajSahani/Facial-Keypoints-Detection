@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-Author : Neeraj Sahani
-"""
-
-
 from sklearn.utils import shuffle
 from tensorflow.keras import layers, models
 import numpy as np, pandas as pd, os
